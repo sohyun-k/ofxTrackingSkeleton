@@ -82,7 +82,7 @@
     <ClCompile Include="..\..\..\addons\ofxOpenCv-4.1.1\src\ofxCvShortImage.cpp">
       <Filter>addons\ofxOpenCv-4.1.1\src</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\addons\ofxTrackingSkeleton\src\skeletonManager.cpp">
+    <ClCompile Include="..\src\SkeletonManager.cpp">
       <Filter>addons\ofxTrackingSkeleton\src</Filter>
     </ClCompile>
   </ItemGroup>
@@ -1013,7 +1013,7 @@
     <ClInclude Include="..\..\..\addons\ofxOpenCv-4.1.1\libs\opencv-4.1.1\includes\opencv2\world.hpp">
       <Filter>addons\ofxOpenCv-4.1.1\libs\opencv-4.1.1\includes\opencv2</Filter>
     </ClInclude>
-    <ClInclude Include="..\src\skeletonManager.h">
+    <ClInclude Include="..\src\SkeletonManager.h">
       <Filter>addons\ofxTrackingSkeleton\src</Filter>
     </ClInclude>
   </ItemGroup>

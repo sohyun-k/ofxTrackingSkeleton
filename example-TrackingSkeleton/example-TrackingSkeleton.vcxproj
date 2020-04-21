@@ -196,10 +196,10 @@
     <ClCompile Include="..\..\..\addons\ofxOpenCv-4.1.1\src\ofxCvHaarFinder.cpp" />
     <ClCompile Include="..\..\..\addons\ofxOpenCv-4.1.1\src\ofxCvImage.cpp" />
     <ClCompile Include="..\..\..\addons\ofxOpenCv-4.1.1\src\ofxCvShortImage.cpp" />
-    <ClCompile Include="..\..\..\addons\ofxTrackingSkeleton\src\skeletonManager.cpp" />
+    <ClCompile Include="..\src\SkeletonManager.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\src\skeletonManager.h" />
+    <ClInclude Include="..\src\SkeletonManager.h" />
     <ClInclude Include="src\ofApp.h" />
     <ClInclude Include="..\..\..\addons\ofxDepthDevice\src\ARUtils.hpp" />
     <ClInclude Include="..\..\..\addons\ofxDepthDevice\src\BilateralFilter\filter.h" />
